@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Cape Cod Trip
 uid: 3a54956e-4719-9459-9f81-e69482a3cd40
 videos:

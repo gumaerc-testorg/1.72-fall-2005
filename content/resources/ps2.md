@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes five questions on falling head permeameter.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-72-groundwater-hydrology-fall-2005/19356450286ec8f990c5e68587fcab57_ps2.pdf
+file: /media/courses/1-72-groundwater-hydrology-fall-2005/19356450286ec8f990c5e68587fcab57_ps2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2.pdf
 uid: 19356450-286e-c8f9-90c5-e68587fcab57

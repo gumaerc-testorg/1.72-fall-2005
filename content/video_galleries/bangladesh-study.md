@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Bangladesh Study
 uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 videos:

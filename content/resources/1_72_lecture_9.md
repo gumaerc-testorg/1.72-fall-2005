@@ -2,8 +2,13 @@
 content_type: resource
 description: This packet contains an overview of the lecture along with diagrams and
   illustrations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-72-groundwater-hydrology-fall-2005/eb2738b37ca531cfd5c323329ee9ff18_1_72_lecture_9.pdf
+file: /media/courses/1-72-groundwater-hydrology-fall-2005/eb2738b37ca531cfd5c323329ee9ff18_1_72_lecture_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 1_72_lecture_9.pdf
 uid: eb2738b3-7ca5-31cf-d5c3-23329ee9ff18
