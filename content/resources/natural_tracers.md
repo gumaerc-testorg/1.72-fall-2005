@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e51706db-66d3-6af1-4707-421504bda995
 resourcetype: Document
 title: natural_tracers.pdf
 uid: c0a04472-ed16-2118-22f8-d66fa66b3d79

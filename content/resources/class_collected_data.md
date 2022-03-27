@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
+parent_uid: 3a54956e-4719-9459-9f81-e69482a3cd40
 resourcetype: Other
 title: Class_collected_data.xls
 uid: 4ef717d7-bb8d-e8e0-6606-8e5daf8fa340

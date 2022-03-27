@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
+parent_uid: 3a54956e-4719-9459-9f81-e69482a3cd40
 resourcetype: Document
 title: cape_cod_handout.pdf
 uid: 40cf4d7c-416d-a654-aff8-7208ee024d09

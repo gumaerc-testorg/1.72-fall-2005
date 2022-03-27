@@ -18,6 +18,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b7ae3287-bb66-f7d3-5a1a-6d192ceeb6f5
 resourcetype: Document
 title: feflowps1.pdf
 uid: dd832e19-d209-00ba-4b67-6860a45034db

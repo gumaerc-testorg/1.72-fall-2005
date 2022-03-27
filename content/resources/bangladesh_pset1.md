@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection
+parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: Bangladesh_pset1.pdf
 uid: 24f18da5-8e19-29b3-62e8-9c0f704be33d

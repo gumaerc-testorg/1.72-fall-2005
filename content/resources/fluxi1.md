@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection
+parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: FluxI1.pdf
 uid: 921298e6-83e5-8ca4-677b-49f897c36a15

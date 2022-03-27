@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
+parent_uid: 3a54956e-4719-9459-9f81-e69482a3cd40
 resourcetype: Document
 title: labassn.pdf
 uid: 1b4facab-c0be-160b-cc56-0b5fd1ab5f6f

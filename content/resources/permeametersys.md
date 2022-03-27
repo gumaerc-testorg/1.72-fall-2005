@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e51706db-66d3-6af1-4707-421504bda995
 resourcetype: Document
 title: permeametersys.pdf
 uid: c1e35ed5-d8cf-6d7a-2523-add6e592844f

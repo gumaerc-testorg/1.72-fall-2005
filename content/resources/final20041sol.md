@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b7ae3287-bb66-f7d3-5a1a-6d192ceeb6f5
 resourcetype: Document
 title: final20041sol.pdf
 uid: 74fa77b2-5ea1-6a1e-d039-9a9da5c43465

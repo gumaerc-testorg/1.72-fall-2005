@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection
+parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: StudioMarch9.pdf
 uid: 455ad380-dfd3-3bcb-7049-ddc7dd7b5d00

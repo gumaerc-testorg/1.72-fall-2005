@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection
+parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: pres1part1.pdf
 uid: e4c71a01-7a4d-c7ce-f646-d3a79c2bc655
