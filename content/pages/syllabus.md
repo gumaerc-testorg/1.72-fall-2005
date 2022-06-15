@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: The syllabus section includes course overview, guidelines, and gradings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 0d4e0043-7b7d-a1cf-7d92-fd3cb143eeac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

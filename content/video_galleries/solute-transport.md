@@ -1,10 +1,15 @@
 ---
 content_type: video_gallery
+description: This section contains four animations showing adsorption and mass transfer.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Solute Transport
 uid: 6ba16deb-d26d-810e-431c-8fe3e290f5fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 52a60229-cdbe-2e73-1f5a-95c1e7b92e4d

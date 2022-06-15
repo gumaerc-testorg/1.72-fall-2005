@@ -1,10 +1,16 @@
 ---
 content_type: video_gallery
+description: This section offers videos from the class field trip to the Cape Cod,
+  MA USGS experimental site and Waquoit Bay National Estuary.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Cape Cod Trip
 uid: 3a54956e-4719-9459-9f81-e69482a3cd40
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - c0a6031a-3b5b-20d3-0de3-91b732aaba11
@@ -22,12 +28,12 @@ videos:
 
 This year, the class was given assignments to complete in the context of the field trip. The following files are the assignments and sample solutions.
 
-*   Cape Cod Field Trip Assignment ([PDF]({{< baseurl >}}/resources/labassn)), and Solution ([PDF]({{< baseurl >}}/resources/solution))
+*   Cape Cod Field Trip Assignment ({{% resource_link 1b4facab-c0be-160b-cc56-0b5fd1ab5f6f "PDF" %}}), and Solution ({{% resource_link f6cb356d-2c68-3d19-fe7e-9d42d19db36d "PDF" %}})
     
-*   Waquoit Bay Follow-up Lab Assignment ([PDF]({{< baseurl >}}/resources/labassn_wb)), Solution ([PDF]({{< baseurl >}}/resources/solution1)), and Class Data ([XLS](/courses/civil-and-environmental-engineering/1-72-groundwater-hydrology-fall-2005/cape-cod-trip/Class_collected_data.xls))
+*   Waquoit Bay Follow-up Lab Assignment ({{% resource_link d96892a9-3833-1623-4fcc-6825a1ae4364 "PDF" %}}), Solution ({{% resource_link 1f929074-46e3-bd2c-9f3f-881adaad8126 "PDF" %}}), and Class Data ({{% resource_link 4ef717d7-bb8d-e8e0-6606-8e5daf8fa340 "XLS" %}})
     
 
-These videos are all from the 2004 class field trip to the Cape Cod, MA USGS experimental site and Waquoit Bay National Estuary. The class was given a supplemental handout for the tour. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1 MB]({{< baseurl >}}/resources/cape_cod_handout))
+These videos are all from the 2004 class field trip to the Cape Cod, MA USGS experimental site and Waquoit Bay National Estuary. The class was given a supplemental handout for the tour. ({{% resource_link 40cf4d7c-416d-a654-aff8-7208ee024d09 "PDF - 3.1 MB" %}})
 
 Cape Cod Field Trip Video Samples
 ---------------------------------

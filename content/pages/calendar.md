@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: The calendar section includes the course outline along with the key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: bc45e2ee-f4ef-4760-4b80-ed2088ba2932
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
