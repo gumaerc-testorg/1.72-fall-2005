@@ -6,6 +6,7 @@ file: /courses/1-72-groundwater-hydrology-fall-2005/74fa77b25ea16a1ed0399a9da5c4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes solutions to thw questions included in the final exam solution.
-

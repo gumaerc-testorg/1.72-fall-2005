@@ -4,6 +4,7 @@ description: Spreadsheet containing data from the lab assignment.
 file: /courses/1-72-groundwater-hydrology-fall-2005/4ef717d7bb8de8e066068e5daf8fa340_Class_collected_data.xls
 file_type: application/msword
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Spreadsheet containing data from the lab assignment.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/1-72-groundwater-hydrology-fall-2005/24f18da58e1929b362e89c0f704be33d_Bangladesh_pset1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection

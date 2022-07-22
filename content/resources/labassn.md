@@ -4,6 +4,7 @@ description: Field trip assignment.
 file: /courses/1-72-groundwater-hydrology-fall-2005/1b4facabc0be160bcc560b5fd1ab5f6f_labassn.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Field trip assignment.
-

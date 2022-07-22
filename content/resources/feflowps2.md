@@ -5,6 +5,7 @@ file: /courses/1-72-groundwater-hydrology-fall-2005/3b70f146865a814ca33ef6a67fc2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on extra credits, and relevent questions.
-

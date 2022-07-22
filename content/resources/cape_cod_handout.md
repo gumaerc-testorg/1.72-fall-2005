@@ -4,6 +4,7 @@ description: This handout provides background information for the class field tr
 file: /courses/1-72-groundwater-hydrology-fall-2005/40cf4d7c416da654aff87208ee024d09_cape_cod_handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Cape Cod Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout provides background information for the class field trip.
-

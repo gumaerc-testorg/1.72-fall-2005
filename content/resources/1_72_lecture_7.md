@@ -6,6 +6,7 @@ file: /courses/1-72-groundwater-hydrology-fall-2005/6f88881ded46dc2cc213b5c49019
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This packet contains an overview of the lecture along with diagrams and illustrations.
-
