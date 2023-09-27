@@ -39,11 +39,12 @@
     "website": "1-72-groundwater-hydrology-fall-2005"
   },
   "learning_resource_types": [
-    "Video Materials",
     "Simulation Videos",
     "Lecture Notes",
-    "Problem Sets"
+    "Problem Sets",
+    "Other Video"
   ],
-  "site_uid": "164709d1-a1ba-4dbb-ae8d-d5802a60a866",
+  "site_uid": "dfc32f47-63b8-4c4d-baf0-ad2224288acf",
+  "site_short_id": "1.72-fall-2005",
   "title": "Course Metadata"
 }
