@@ -2,6 +2,7 @@
 content_type: resource
 description: Field trip assignment.
 file: /courses/1-72-groundwater-hydrology-fall-2005/1b4facabc0be160bcc560b5fd1ab5f6f_labassn.pdf
+file_size: 311703
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
