@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes five questions on falling head permeameter.
 file: /courses/1-72-groundwater-hydrology-fall-2005/19356450286ec8f990c5e68587fcab57_ps2.pdf
+file_size: 66650
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on tritium and helium, carbon isotopes,
   dissolved carbon, and carbon isotopes.
 file: /courses/1-72-groundwater-hydrology-fall-2005/c0a04472ed16211822f8d66fa66b3d79_natural_tracers.pdf
+file_size: 1540482
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

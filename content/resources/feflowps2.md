@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on extra credits, and relevent questions.
 file: /courses/1-72-groundwater-hydrology-fall-2005/3b70f146865a814ca33ef6a67fc2fda8_feflowps2.pdf
+file_size: 19949
 file_type: application/pdf
 learning_resource_types:
 - Assignments
