@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-72-groundwater-hydrology-fall-2005/921298e683e58ca4677b49f897c36a15_FluxI1.pdf
+file_size: 17826
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

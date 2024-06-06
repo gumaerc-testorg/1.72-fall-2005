@@ -9,6 +9,7 @@ description: These materials are from a case study and field trip recently under
   tools to manage the groundwater and agricultural systems that couple groundwater
   flow with biogeochemical reactions.
 file: /courses/1-72-groundwater-hydrology-fall-2005/3872c6d5764c2c766ab5c41748b51f5b_pres2.pdf
+file_size: 1035655
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
