@@ -12,7 +12,7 @@ description: 'This problem set will introduce you to FEFLOW (Finite Element subs
 
   http://www.wasy.de/english/produkte/feflow/index.html.'
 draft: false
-file: /courses/1-72-groundwater-hydrology-fall-2005/dd832e19d20900ba4b676860a45034db_feflowps1.pdf
+file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/dd832e19d20900ba4b676860a45034db_feflowps1.pdf
 file_size: 2753610
 file_type: application/pdf
 image_metadata:
