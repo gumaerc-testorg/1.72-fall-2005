@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-72-groundwater-hydrology-fall-2005/68c8a1fa146faae90b4d486246b39044_TotalFluxes.m
+file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/68c8a1fa146faae90b4d486246b39044_TotalFluxes.m
 file_size: 660
 file_type: text/plain
 learning_resource_types: []
