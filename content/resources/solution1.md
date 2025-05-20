@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to lab assignment problems.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/1f92907446e3bd2c9f3f881adaad8126_solution1.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/1f92907446e3bd2c9f3f881adaad8126_solution1.pdf
 file_size: 359567
 file_type: application/pdf
 learning_resource_types: []

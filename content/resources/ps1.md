@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes eleven questions on water conservation giving
   the images, figures, and tables.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/1346e4b862eae4d3bd8a357a71aecf2f_ps1.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/1346e4b862eae4d3bd8a357a71aecf2f_ps1.pdf
 file_size: 198737
 file_type: application/pdf
 learning_resource_types:

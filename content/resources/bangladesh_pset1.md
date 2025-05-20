@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/24f18da58e1929b362e89c0f704be33d_Bangladesh_pset1.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/24f18da58e1929b362e89c0f704be33d_Bangladesh_pset1.pdf
 file_size: 185856
 file_type: application/pdf
 learning_resource_types: []

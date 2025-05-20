@@ -2,7 +2,7 @@
 content_type: resource
 description: This packet contains an overview of the lecture along with diagrams and
   illustrations.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/06823bef5f8a6540df23b7a830edb85f_1_72_lecture_2.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/06823bef5f8a6540df23b7a830edb85f_1_72_lecture_2.pdf
 file_size: 173380
 file_type: application/pdf
 learning_resource_types:

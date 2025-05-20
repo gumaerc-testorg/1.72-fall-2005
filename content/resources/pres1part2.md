@@ -8,7 +8,7 @@ description: These materials are from a case study and field trip recently under
   system of biogeochemical processes. Harvey?s group is now developing numerical simulation
   tools to manage the groundwater and agricultural systems that couple groundwater
   flow with biogeochemical reactions.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/2ff3574dc20a5ae928dcb669130b4d17_pres1part2.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/2ff3574dc20a5ae928dcb669130b4d17_pres1part2.pdf
 file_size: 2097275
 file_type: application/pdf
 learning_resource_types: []
