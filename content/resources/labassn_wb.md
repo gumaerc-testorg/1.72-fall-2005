@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/d96892a9383316234fcc6825a1ae4364_labassn_wb.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/d96892a9383316234fcc6825a1ae4364_labassn_wb.pdf
 file_size: 14575
 file_type: application/pdf
 learning_resource_types: []

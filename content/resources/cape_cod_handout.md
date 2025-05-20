@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout provides background information for the class field trip.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/40cf4d7c416da654aff87208ee024d09_cape_cod_handout.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/40cf4d7c416da654aff87208ee024d09_cape_cod_handout.pdf
 file_size: 3249125
 file_type: application/pdf
 learning_resource_types: []

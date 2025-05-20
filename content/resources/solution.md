@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to field trip assignment problems.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/f6cb356d2c683d19fe7e9d42d19db36d_solution.pdf
+file: /courses/1-72-groundwater-hydrology-fall-2005/f6cb356d2c683d19fe7e9d42d19db36d_solution.pdf
 file_size: 45334
 file_type: application/pdf
 learning_resource_types: []
