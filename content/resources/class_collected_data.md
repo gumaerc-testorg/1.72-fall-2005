@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Spreadsheet containing data from the lab assignment.
-file: /ol-ocw-studio-app/courses/1-72-groundwater-hydrology-fall-2005/4ef717d7bb8de8e066068e5daf8fa340_Class_collected_data.xls
+file: /courses/1-72-groundwater-hydrology-fall-2005/4ef717d7bb8de8e066068e5daf8fa340_Class_collected_data.xls
 file_size: 15360
 file_type: application/msword
 learning_resource_types: []
